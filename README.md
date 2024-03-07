@@ -19,6 +19,8 @@
 
 ## 動画
 
+https://www.youtube.com/watch?v=B5-PF-ifRJw
+
 ## 使用した技術
 
 - python
@@ -44,9 +46,11 @@
 - https://colab.research.google.com/drive/1rTMW-44jO-ZzqYA-0V_POo3jbPi4JnEQ?usp=sharing
 
 # examples
-- https://docs.google.com/document/d/1nJE_HNMnEHfSLUc0iU8vCRyxI9vUglke4C7FEf59v88/edit?usp=sharing
+https://docs.google.com/document/d/1nJE_HNMnEHfSLUc0iU8vCRyxI9vUglke4C7FEf59v88/edit?usp=sharing
 <img width="578" alt="スクリーンショット 2024-03-08 0 34 08" src="https://github.com/masa-jp-art/Manga-planning-assistant/assets/120908357/084f635e-59a4-4c01-8a42-d0112d25af18">
 
-- https://docs.google.com/document/d/1tWVHxS5ANBjC99UW8W947F24WUfcbVfg8N4Y6hw_xPc/edit?usp=sharing
+https://docs.google.com/document/d/1tWVHxS5ANBjC99UW8W947F24WUfcbVfg8N4Y6hw_xPc/edit?usp=sharing
 <img width="588" alt="スクリーンショット 2024-03-08 0 33 03" src="https://github.com/masa-jp-art/Manga-planning-assistant/assets/120908357/2b3f093d-e6ba-41b8-804b-da06a0ffd1cc">
 
+https://docs.google.com/document/d/195oNE8Kc80VPsy1aPGKGLifsvo5K4j2O19Mfclakr5k/edit
+<img width="571" alt="スクリーンショット 2024-03-08 1 20 59" src="https://github.com/masa-jp-art/Manga-planning-assistant/assets/120908357/7491f638-3629-4502-8478-457185f04618">
