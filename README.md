@@ -45,3 +45,8 @@
 
 # examples
 - https://docs.google.com/document/d/1nJE_HNMnEHfSLUc0iU8vCRyxI9vUglke4C7FEf59v88/edit?usp=sharing
+<img width="578" alt="スクリーンショット 2024-03-08 0 34 08" src="https://github.com/masa-jp-art/Manga-planning-assistant/assets/120908357/084f635e-59a4-4c01-8a42-d0112d25af18">
+
+- https://docs.google.com/document/d/1tWVHxS5ANBjC99UW8W947F24WUfcbVfg8N4Y6hw_xPc/edit?usp=sharing
+<img width="588" alt="スクリーンショット 2024-03-08 0 33 03" src="https://github.com/masa-jp-art/Manga-planning-assistant/assets/120908357/2b3f093d-e6ba-41b8-804b-da06a0ffd1cc">
+
