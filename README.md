@@ -46,7 +46,7 @@
 - 20240308-manga-planning-AI-v1.ipynb
   - https://colab.research.google.com/drive/1rTMW-44jO-ZzqYA-0V_POo3jbPi4JnEQ?usp=sharing
 
-# examples
+## examples
 - https://docs.google.com/document/d/1nJE_HNMnEHfSLUc0iU8vCRyxI9vUglke4C7FEf59v88/edit?usp=sharing
 - <img width="578" alt="スクリーンショット 2024-03-08 0 34 08" src="https://github.com/masa-jp-art/Manga-planning-assistant/assets/120908357/084f635e-59a4-4c01-8a42-d0112d25af18">
 
