@@ -55,3 +55,6 @@
 
 - https://docs.google.com/document/d/195oNE8Kc80VPsy1aPGKGLifsvo5K4j2O19Mfclakr5k/edit
 - <img width="571" alt="スクリーンショット 2024-03-08 1 20 59" src="https://github.com/masa-jp-art/Manga-planning-assistant/assets/120908357/7491f638-3629-4502-8478-457185f04618">
+
+# 参考
+- https://portfolio.foti.jp/web-manga-works-list
