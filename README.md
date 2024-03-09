@@ -19,7 +19,7 @@
 
 ## 動画
 
-https://www.youtube.com/watch?v=B5-PF-ifRJw
+- https://www.youtube.com/watch?v=B5-PF-ifRJw
 
 ## 使用した技術
 
@@ -43,7 +43,8 @@ https://www.youtube.com/watch?v=B5-PF-ifRJw
 - 他の領域のドメイン課題に転用できるか実験する
 
 # Demo on Google colab
-- https://colab.research.google.com/drive/1rTMW-44jO-ZzqYA-0V_POo3jbPi4JnEQ?usp=sharing
+- 20240308-manga-planning-AI-v1.ipynb
+  - https://colab.research.google.com/drive/1rTMW-44jO-ZzqYA-0V_POo3jbPi4JnEQ?usp=sharing
 
 # examples
 https://docs.google.com/document/d/1nJE_HNMnEHfSLUc0iU8vCRyxI9vUglke4C7FEf59v88/edit?usp=sharing
