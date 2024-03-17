@@ -16,6 +16,14 @@
 
 - マンガを描く人間が、そのドメイン知識を言語化し、AIと協業できるツールを発明し、公開することで、マンガを描く人の負荷を減らし、マンガへの参入障壁も下げられるだろう
 
+### 構造の言語化
+
+- https://github.com/masa-jp-art/Manga-planning-assistant/blob/main/manga-structure.md
+
+### 概念図
+
+- https://miro.com/app/board/uXjVMdFD3xo=/?share_link_id=953476929380
+
 ## 使用した技術
 
 - python
