@@ -1,4 +1,4 @@
-# About
+![Manga-Planning-AI](https://github.com/masa-jp-art/Manga-planning-assistant/assets/120908357/ded5c3bf-7a12-45b0-ac32-3c38d115debc)# About
 
 ## 概要
 
@@ -23,6 +23,8 @@
 ### 概念図
 
 - https://miro.com/app/board/uXjVMdFD3xo=/?share_link_id=953476929380
+- ![Manga-Planning-AI](https://github.com/masa-jp-art/Manga-planning-assistant/assets/120908357/54962eea-bc4e-41bc-aafe-b20da9135c3d)
+
 
 ## 使用した技術
 
