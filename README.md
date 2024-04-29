@@ -16,8 +16,8 @@
 
 ### 構造の言語化
 
-- v1　https://github.com/masa-jp-art/Manga-planning-assistant/blob/main/manga-structure.md
-- v2　
+- v1　https://github.com/masa-jp-art/Manga-planning-assistant/blob/main/manga-structure-v1.md
+- v2　https://github.com/masa-jp-art/Manga-planning-assistant/blob/main/manga-structure-v2.md
 
 ### 概念図
 
