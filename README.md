@@ -1,5 +1,3 @@
-![Manga-Planning-AI](https://github.com/masa-jp-art/Manga-planning-assistant/assets/120908357/ded5c3bf-7a12-45b0-ac32-3c38d115debc)# About
-
 ## 概要
 
 - AIと対話しながらアイデアを練り上げることで、マンガの企画が出来上がり、マンガ制作が安定的に行えるようになるものを作りました
@@ -18,18 +16,20 @@
 
 ### 構造の言語化
 
-- https://github.com/masa-jp-art/Manga-planning-assistant/blob/main/manga-structure.md
+- v1　https://github.com/masa-jp-art/Manga-planning-assistant/blob/main/manga-structure.md
+- v2　
 
 ### 概念図
 
 - https://miro.com/app/board/uXjVMdFD3xo=/?share_link_id=953476929380
-- ![Manga-Planning-AI](https://github.com/masa-jp-art/Manga-planning-assistant/assets/120908357/54962eea-bc4e-41bc-aafe-b20da9135c3d)
-
+- v1 ![Manga-Planning-AI](https://github.com/masa-jp-art/Manga-planning-assistant/assets/120908357/54962eea-bc4e-41bc-aafe-b20da9135c3d)
+- v2 ![Manga-Planning-AI-v2](https://github.com/masa-jp-art/Manga-planning-assistant/assets/120908357/566b9bbc-63f5-491f-9867-9fb1e28f6bf7)
 
 ## 使用した技術
 
 - python
 - OpenAI API
+- Claude API
 
 ## 新規制
 
@@ -47,22 +47,27 @@
 - 特定の文脈（作家性、外部の資料など）を反映したベクトルデータベースを接続して、完全自動化できるか実験する
 - 他の領域のドメイン課題に転用できるか実験する
 
-# 解説動画
-- https://www.youtube.com/watch?v=B5-PF-ifRJw
-
 # Demo on Google colab
-- 20240308-manga-planning-AI-v1.ipynb
+- 20240421--manga-planning-AI-v2
+  - https://colab.research.google.com/drive/1N1hCMaIDOwqMSkyXsWnjvOeybMB8jHvZ#scrollTo=Frxf4W3CMLOY
+- 20240308-manga-planning-AI-v1
   - https://colab.research.google.com/drive/1rTMW-44jO-ZzqYA-0V_POo3jbPi4JnEQ?usp=sharing
 
 ## examples
-- https://docs.google.com/document/d/1nJE_HNMnEHfSLUc0iU8vCRyxI9vUglke4C7FEf59v88/edit?usp=sharing
-- <img width="578" alt="スクリーンショット 2024-03-08 0 34 08" src="https://github.com/masa-jp-art/Manga-planning-assistant/assets/120908357/084f635e-59a4-4c01-8a42-d0112d25af18">
+- v1
+  - https://drive.google.com/open?id=1VDXoXdNxDfB4UrD1BylKoTmOzgIeghhirOd3BfOQJcs
+  - https://drive.google.com/open?id=1dpHWuiY4S62u4_Gj5iYAF5BJtgYxlNebhzKfqvBslU4
+  - https://drive.google.com/open?id=1e1ifeS2CBZLbX6eGkcBEQiQTaZT5eET77Bwed_4o36s
+- v2
+  - https://drive.google.com/open?id=1ezIAuWARM3gU4IVNq-zhi8QaAA-yuPXIb4AlBHjiE9U
+  - https://drive.google.com/open?id=1qvlKPa_vNgXDGrKbIaR1GENgMdvSoRQZ4LL5T6R0JgM
+  - https://drive.google.com/open?id=1VZaazcqKA28O3kTEEGt4ktGyJee5kdOPLgac730cIfw
 
-- https://docs.google.com/document/d/1tWVHxS5ANBjC99UW8W947F24WUfcbVfg8N4Y6hw_xPc/edit?usp=sharing
-- <img width="588" alt="スクリーンショット 2024-03-08 0 33 03" src="https://github.com/masa-jp-art/Manga-planning-assistant/assets/120908357/2b3f093d-e6ba-41b8-804b-da06a0ffd1cc">
-
-- https://docs.google.com/document/d/195oNE8Kc80VPsy1aPGKGLifsvo5K4j2O19Mfclakr5k/edit
-- <img width="571" alt="スクリーンショット 2024-03-08 1 20 59" src="https://github.com/masa-jp-art/Manga-planning-assistant/assets/120908357/7491f638-3629-4502-8478-457185f04618">
-
-# 参考
-- https://app.akindo.io/communities/K84OqRGBqC7PLjg0/products/aA40gjnxMu8nq2xRN
+# 関連
+- 生成AIなんでも展示会
+  - note　https://note.com/msfmnkns/n/n89d7a4caefba?magazine_key=m86cfe3c710d4
+  - YouTube　https://youtu.be/0SyZyDP-Mmc
+- 東京AI祭-技術大合戦
+  - ハッカソンページ　https://app.akindo.io/communities/K84OqRGBqC7PLjg0/products/aA40gjnxMu8nq2xRN
+  - note　https://note.com/msfmnkns/n/nfd3bb8855216?magazine_key=m86cfe3c710d4
+  - YouTube　https://www.youtube.com/watch?v=B5-PF-ifRJw
